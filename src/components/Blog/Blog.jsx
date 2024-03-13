@@ -1,9 +1,9 @@
 import React from 'react';
 import { CiBookmarkPlus } from "react-icons/ci";
 
-const Blog = ({blog}) => {
+const Blog = ({blog,handleAddToBookmark,handleTotalReadTime}) => {
     const {id,title,author,date,cover_image,hashtags,author_image,time_to_read,post_views}=blog;
-    console.log(blog)
+    
     return (
         <div className='w-full text-left border rounded-lg my-6'>
             <div className="">
@@ -24,7 +24,7 @@ const Blog = ({blog}) => {
                     <div className="right">
                         <div className="flex gap-4 items-center capitalize font-semibold">
                             <h4>{time_to_read} minutes read</h4>
-                            <h4 className='bg-none btn cursor-pointer text-3xl'><CiBookmarkPlus /></h4>
+                            <h4 className='bg-none btn cursor-pointer text-3xl' onClick={()=> handleAddToBookmark(blog)}><CiBookmarkPlus /></h4>
                         </div>
                     </div>
                 </div>
@@ -38,7 +38,7 @@ const Blog = ({blog}) => {
 
                     </div>
                 </div>
-                <a className='border my-4 px-8 py-2 btn uppercase '>mark as read</a>
+                <a className='border my-4 px-8 py-2 btn uppercase ' onClick={()=>handleTotalReadTime(blog.time_to_read)}>mark as read</a>
             </div>
         </div>
     );

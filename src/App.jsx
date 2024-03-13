@@ -7,13 +7,24 @@ import Blogs from './components/Blogs/Blogs'
 import Bookmark from './components/Bookmark/Bookmark'
 
 function App() {
+  const [bookmarks,setBookmarks]=useState([])
+  const [readingTime,setReadingTime]=useState(0)
+
+  const handleAddToBookmark=blog=>{
+    const newBookmarks= [...bookmarks,blog]
+    setBookmarks(newBookmarks)
+  }
+  const handleTotalReadTime=time=>{
+    const newReadingTime=readingTime+time;
+    setReadingTime(newReadingTime);
+  }
 
   return (
     <>
       <Header></Header>
       <div className='lg:flex gap-4'>
-        <Blogs></Blogs>
-        <Bookmark></Bookmark>
+        <Blogs handleAddToBookmark={handleAddToBookmark} handleTotalReadTime={handleTotalReadTime}></Blogs>
+        <Bookmark id={bookmarks.id} bookmarks={bookmarks} readingTime={readingTime}></Bookmark>
       </div>
     </>
   )

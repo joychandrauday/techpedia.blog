@@ -4,7 +4,7 @@ const Header = () => {
     return (
         <div className="navbar container mx-auto">
             <div className="flex-1">
-                <a className="text-2xl font-bold cursor-pointer hover:text-blue-600 font-exo">techpedia<span className='text-blue-600'>.</span>blog</a>
+                <a className="text-2xl font-bold cursor-pointer hover:text-blue-600 font-exo">techpedia<span className='text-blue-600'>.blog</span></a>
             </div>
             <div className="flex-none gap-2">
                 <div className="dropdown dropdown-end">
