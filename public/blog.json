@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "The Latest Advancements in Artificial Intelligence",
+    "author": "Alice Smith",
+    "author_image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+    "date": "2024-03-13",
+    "cover_image": "https://plus.unsplash.com/premium_photo-1683121710572-7723bd2e235d?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZXxlbnwwfHwwfHx8MA%3D%3D",
+    "hashtags": ["technology", "AI", "machinelearning"],
+    "time_to_read": 6,
+    "post_views": 1200
+  },
+  {
+    "id": 2,
+    "title": "Building Scalable Web Applications with React.js",
+    "author": "Bob Johnson",
+    "author_image": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+    "date": "2024-03-12",
+    "cover_image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhY3R8ZW58MHx8MHx8fDA%3D",
+    "hashtags": ["technology", "webdevelopment", "reactjs"],
+    "time_to_read": 9,
+    "post_views": 1800
+  },
+  {
+    "id": 3,
+    "title": "Exploring the World of Cybersecurity",
+    "author": "Emma Brown",
+    "author_image": "https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fHw%3D",
+    "date": "2024-03-11",
+    "cover_image": "https://plus.unsplash.com/premium_photo-1674506654010-22677db35bdf?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y3liZXJzZWN1cml0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "hashtags": ["technology", "cybersecurity", "infosec"],
+    "time_to_read": 6,
+    "post_views": 1500
+  },
+  {
+    "id": 4,
+    "title": "The Future of Blockchain Technology",
+    "author": "David Jones",
+    "author_image": "https://images.unsplash.com/photo-1628157588553-5eeea00af15c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8",
+    "date": "2024-03-10",
+    "cover_image": "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmxvY2tjaGFpbnxlbnwwfHwwfHx8MA%3D%3D",
+    "hashtags": ["technology", "blockchain", "cryptocurrency"],
+    "time_to_read": 10,
+    "post_views": 2000
+  },
+  {
+    "id": 5,
+    "title": "Understanding Quantum Computing: A Beginner's Guide",
+    "author": "Olivia Davis",
+    "author_image": "https://images.unsplash.com/photo-1640960543409-dbe56ccc30e2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDExfHx8ZW58MHx8fHx8",
+    "date": "2024-03-09",
+    "cover_image": "https://images.unsplash.com/photo-1609151376730-f246ec0b99e5?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cXVhbnR1bSUyMGNvbXB1dGluZ3xlbnwwfHwwfHx8MA%3D%3D",
+    "hashtags": ["technology", "quantumcomputing"],
+    "time_to_read": 7,
+    "post_views": 1600
+  },
+  {
+    "id": 6,
+    "title": "The Rise of 5G Technology and Its Implications",
+    "author": "James Wilson",
+    "author_image": "https://images.unsplash.com/photo-1640951613773-54706e06851d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fHx8",
+    "date": "2024-03-08",
+    "cover_image": "https://images.unsplash.com/photo-1610168388506-27746a9332e6?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bW9iaWxlJTIwbmV0d29ya3xlbnwwfHwwfHx8MA%3D%3D",
+    "hashtags": ["technology", "5G", "telecommunications"],
+    "time_to_read": 9,
+    "post_views": 1900
+  },
+  {
+    "id": 7,
+    "title": "Artificial Intelligence in Healthcare: Transforming the Industry",
+    "author": "Sophia Martinez",
+    "author_image": "https://images.unsplash.com/photo-1586297135537-94bc9ba060aa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fGF2YXRhcnxlbnwwfHwwfHx8MA%3D%3D",
+    "date": "2024-03-07",
+    "cover_image": "https://plus.unsplash.com/premium_photo-1699387203637-6eac5a11a201?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fGFpJTIwaW4lMjBoZWFsdGhjYXJlfGVufDB8fDB8fHww",
+    "hashtags": ["technology", "AI", "healthcare"],
+    "time_to_read": 4,
+    "post_views": 1300
+  },
+  {
+    "id": 8,
+    "title": "The Evolution of Cloud Computing",
+    "author": "William Garcia",
+    "author_image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fHByb2ZpbGV8ZW58MHx8MHx8fDA%3D",
+    "date": "2024-03-06",
+    "cover_image": "https://plus.unsplash.com/premium_photo-1681487942927-e1a2786e6036?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2xvdWQlMjBjb21wdXRpbmd8ZW58MHx8MHx8fDA%3D",
+    "hashtags": ["technology", "cloudcomputing"],
+    "time_to_read": 11,
+    "post_views": 2200
+  },
+  {
+    "id": 9,
+    "title": "Augmented Reality: Bridging the Gap Between Virtual and Real Worlds",
+    "author": "Charlotte Lopez",
+    "author_image": "https://images.unsplash.com/photo-1522196772883-393d879eb14d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fHByb2ZpbGV8ZW58MHx8MHx8fDA%3D",
+    "date": "2024-03-05",
+    "cover_image": "https://images.unsplash.com/photo-1533310266094-8898a03807dd?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YXVnbWVudGVkJTIwcmVhbGl0eXxlbnwwfHwwfHx8MA%3D%3D",
+    "hashtags": ["technology", "AR", "virtualreality"],
+    "time_to_read": 8,
+    "post_views": 1700
+  },
+  {
+    "id": 10,
+    "title": "The Impact of IoT on Smart Cities",
+    "author": "Michael Young",
+    "author_image": "https://plus.unsplash.com/premium_photo-1666866587937-c933156b2168?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fHByb2ZpbGV8ZW58MHx8MHx8fDA%3D",
+    "date": "2024-03-04",
+    "cover_image": "https://plus.unsplash.com/premium_photo-1687205277517-5fa36b31b4f1?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGlvdHxlbnwwfHwwfHx8MA%3D%3D",
+    "hashtags": ["technology", "IoT", "smartcities"],
+    "time_to_read": 6,
+    "post_views": 1400
+  }
+]
