@@ -30,7 +30,7 @@ const Blog = ({blog,handleAddToBookmark,handleTotalReadTime}) => {
                 </div>
                 <h1 className=' text-4xl font-bold text-left py-4'>{title}</h1>
                 <div className="flex gap-4 justify-between">
-                    <h3 className="text-m font-bold capitalize">total view: {post_views}</h3>
+                    <h3 className="text-m font-bold capitalize">total views: {post_views}</h3>
                     <div className='flex gap-4'>
                         {
                             hashtags.map(hastag=> <h1 className='text-slate-400 font-semibold'>#{hastag}</h1>)
